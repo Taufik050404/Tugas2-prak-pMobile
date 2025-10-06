@@ -48,8 +48,7 @@ class TampilanKartu extends StatelessWidget {
             ),
             Text('Gibran Rakabuming',
               style: GoogleFonts.agdasima(
-                fontSize: 40,
-                fontWeight: FontWeight.bold
+                fontSize: 25,
                 color: Colors.red
               ),
             ),
